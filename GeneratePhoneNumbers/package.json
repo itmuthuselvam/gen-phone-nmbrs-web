@@ -31,7 +31,7 @@
     "lodash": "^4.17.10",
     "moment": "^2.23.0",
     "ng-mat-search-bar": "^2.0.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "npm": "^6.9.2",
     "popper.js": "^1.14.6",
     "primeicons": "^1.0.0",
